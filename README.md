@@ -1,2 +1,2 @@
 # weather_app
-This is a weather app that gets the location and displays the current weather using a api to pull the data  
+This is a weather app that gets the location and displays the current weather using a api to pull the data using a api to fetch the data
